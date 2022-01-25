@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADmin\\.nuget\\packages\\": {}
+    "C:\\Users\\TR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADmin\\Documents\\GitHub\\PokemonBattle\\PokemonBattle\\PokemonBattle\\PokemonBattle.csproj",
+      "projectUniqueName": "C:\\Users\\TR\\Documents\\GitHub\\PokemonBattle\\PokemonBattle\\PokemonBattle\\PokemonBattle.csproj",
       "projectName": "PokemonBattle",
-      "projectPath": "C:\\Users\\ADmin\\Documents\\GitHub\\PokemonBattle\\PokemonBattle\\PokemonBattle\\PokemonBattle.csproj",
-      "packagesPath": "C:\\Users\\ADmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADmin\\Documents\\GitHub\\PokemonBattle\\PokemonBattle\\PokemonBattle\\obj\\",
+      "projectPath": "C:\\Users\\TR\\Documents\\GitHub\\PokemonBattle\\PokemonBattle\\PokemonBattle\\PokemonBattle.csproj",
+      "packagesPath": "C:\\Users\\TR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TR\\Documents\\GitHub\\PokemonBattle\\PokemonBattle\\PokemonBattle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
