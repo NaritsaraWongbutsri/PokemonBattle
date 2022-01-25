@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30faf9b7-d2d1-4c9e-9109-e579dff055dd": {
+      "ProjectGuid": "30faf9b7-d2d1-4c9e-9109-e579dff055dd",
+      "DisplayName": "PokemonBattle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
